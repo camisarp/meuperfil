@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andreza Pipolo</h1>
 
-<h2 align="left"> About me</h2>
+<h2 align="left">🫐 About me </h2>
 
 I am a programming student living in Brazil. I'm learning to code. I am in the process of career migration with interest in working as a back end developer. I have knowledge in Git, Github, JavaScript and Node.JS I intend to include TypeScript and Java in my skills.Feel free to create a pull request to contribute to any of my repositories.
 
@@ -15,7 +15,7 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 
 - ⚡️ Fun-Fact: I have an MBA in strategic people management
 
-- ⚡️Find out more about me & feel free to connect with me <p align="left">
+- 📡 Find out more about me & feel free to connect with me <p align="left">
 <a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>
 <a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40px"/></a>
 <a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="40px"/></a>
@@ -23,13 +23,13 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 </br>
 
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🪓 Languages and Tools</h2>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> </p>
 </br>
 </br>
 
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezapipolo&show_icons=true&locale=en&layout=compact" alt="andrezapipolo" /></p>
 
 </br>
