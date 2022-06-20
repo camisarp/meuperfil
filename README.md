@@ -13,13 +13,13 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 
 - 💬 Talk to me about  Memes, Movies 🎥, Super Mario 🎮, Amateur Photography 📸 and foods 🥢
 
-- ⚡ Fun fact I love foods and photography
-
 </br>
-<h2 align="left">Connect with me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/andrezapipolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrezapipolo" height="30" width="40" /></a>
-<a href="https://instagram.com/andrezapipolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrezapipolo" height="30" width="40" /></a>
+
+Find out more about me & feel free to connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+<a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 </p>
 </br>
 
@@ -31,7 +31,6 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 
 
 <h2 align="left">GitHub Stats</h2>
-</br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezapipolo&show_icons=true&locale=en&layout=compact" alt="andrezapipolo" /></p>
 
 </br>
