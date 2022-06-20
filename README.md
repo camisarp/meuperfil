@@ -1,5 +1,5 @@
 <p align="center">
-<h2>Hi, I'm Andreza Pipolo!<img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p align="center"></p>> <p align="center"></p>
+<h2>Hi, I'm Andreza Pipolo!<img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p align="center"></p><p align="center"></p>
 
 
 <h2 align="left">🫐 About me </h2>
