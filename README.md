@@ -1,9 +1,9 @@
 
 <h1 align="center">
     <br>
-    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></br> ## 🫐 About me</h1>
-
-## 🫐 About me
+    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></br>
+    
+     ## 🫐 About me</h1>
 </br>
 </br>
 
