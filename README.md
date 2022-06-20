@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andreza Pipolo</h1>
-<h3 align="center">I am in the process of career migration with interest in working as a back end developer. I am currently studying at {reprograma} and Alura</h3>
+<h3 align="center">I am a programming student living in Brazil. I'm learning to code. I am in the process of career migration with interest in working as a back end developer. I have knowledge in Git, Github, JavaScript and Node.JS I intend to include TypeScript and Java in my skills.Feel free to create a pull request to contribute to any of my repositories.</h3>
 </br>
 
-- 🌱 I’m currently learning **JavaScript,Node.js**
+- 🌱 I’m currently learning JavaScript, Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/andrezapipolo?tab=repositories](https://github.com/andrezapipolo?tab=repositories)
 
-- 📫 How to reach me **andreza_menezes@hotmail.com**
+- 📫 How to reach me andreza_menezes@hotmail.com
 
-- ⚡ Fun fact **I love cooking and photography**
+- ⚡ Fun fact I love cooking and photography
 
 </br>
 <h3 align="left">Connect with me:</h3>
