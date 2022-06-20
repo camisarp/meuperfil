@@ -5,7 +5,6 @@
 ## 🫐 About me
 </br>
 </br>
-
 I am a programming student living in Brazil. I'm learning to code. I am in the process of career migration with interest in working as a back end developer. I have knowledge in Git, Github, JavaScript and Node.JS I intend to include TypeScript and Java in my skills.Feel free to create a pull request to contribute to any of my repositories.
 
 
