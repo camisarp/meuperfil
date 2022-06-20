@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andreza Pipolo</h1> <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<h1 align="center">Hi 👋, I'm Andreza Pipolo</h1>&nbsp;<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 </br>
 
 <h2 align="left">🫐 About me </h2>
@@ -9,8 +9,6 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 - 🌱 I’m currently learning JavaScript, Node.js
 
 - 👨‍💻 All of my projects are available at [Github Repository](https://github.com/andrezapipolo?tab=repositories)
-
-- 📫 How to reach me [e-mail](andreza_menezes@hotmail.com)
 
 - 💬 Talk to me about  Memes, Movies 🎥, Super Mario 🎮, Amateur Photography 📸 and foods 🥢
 
