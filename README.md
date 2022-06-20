@@ -1,9 +1,10 @@
 
 <h1 align="center">
     <br>
-    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></h1>
+    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></h1></br>
 
 ## 🫐 About me
+
 </br>
 I am a programming student living in Brazil. I'm learning to code. I am in the process of career migration with interest in working as a back end developer. I have knowledge in Git, Github, JavaScript and Node.JS I intend to include TypeScript and Java in my skills.Feel free to create a pull request to contribute to any of my repositories.
 
@@ -21,6 +22,7 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 <a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40px"/></a>&nbsp;
 <a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="40px"/></a>
 </p>
+
 </br>
 
 ## ⛏️ Languages and Tools
@@ -31,6 +33,7 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 </br>
 
 ## 📊 GitHub Stats
+</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrezapipolo&show_icons=true&locale=en&layout=compact" alt="andrezapipolo" /></p>
 
