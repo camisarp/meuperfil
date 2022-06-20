@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p align="center">
-</h1>
+<h1 align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p align="center"></h1>
 
 
 ##  🫐 About me
