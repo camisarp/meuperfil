@@ -13,13 +13,14 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 
 - 💬 Talk to me about  Memes, Movies 🎥, Super Mario 🎮, Amateur Photography 📸 and foods 🥢
 
-</br>
+- ⚡️ Fun-Fact: I have an MBA in strategic people management
 
-Find out more about me & feel free to connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60px"/></a>
-<a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="60px"/></a>
-<a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="60px"/></a>
+- ⚡️Find out more about me & feel free to connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="40px"/></a>
+<a href="https://www.instagram.com/andrezapipolo"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="40px"/></a>
+<a href="https://open.spotify.com/user/andrezamenezes"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify" width="40px"/></a>
 </p>
 </br>
 
