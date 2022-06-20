@@ -13,7 +13,7 @@ I am a programming student living in Brazil. I'm learning to code. I am in the p
 
 - 👨‍💻 All of my projects are available at [Github Repository](https://github.com/andrezapipolo?tab=repositories)
 
-- 💬 Talk to me about  Memes, Movies 🎥, Super Mario 🎮, Amateur Photography 📸 and foods 🥢
+- 💬 Talk to me about  Memes🤭, Movies 🍿, Super Mario 🎮, Amateur Photography 📸 and foods 🥢
 
 - ⚡️ Fun-Fact: I have an MBA in strategic people management
 
