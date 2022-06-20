@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90px">Hi, I'm Andreza Pipolo</h1>
+<h1><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="auto">Hi, I'm Andreza Pipolo</h1>
 
 
 <h2 align="left">🫐 About me </h2>
