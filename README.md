@@ -1,12 +1,12 @@
 
 <h1 align="center">
     <br>
-    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></br>
-    
-     ## 🫐 About me</h1>
+    <p align="center">Hi, I'm Andreza Pipolo! <img align='center' src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200"<p></br></h1>
+
 </br>
 </br>
 
+## 🫐 About me
 I am a programming student living in Brazil. I'm learning to code. I am in the process of career migration with interest in working as a back end developer. I have knowledge in Git, Github, JavaScript and Node.JS I intend to include TypeScript and Java in my skills.Feel free to create a pull request to contribute to any of my repositories.
 
 
